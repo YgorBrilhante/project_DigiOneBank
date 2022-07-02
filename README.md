@@ -7,4 +7,7 @@
 - Enum
 - Abstraction and
 - Polymorphism 
+- Collections
+- Arrays
+- Lists
 ### in Kotlin
